@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta>
+    <title>HuelgaDef.graphml</title>
+  </meta>
+  <graph defaultedgetype="directed">
+    <attributes class="node">
+      <attribute id="rawSize" title="rawSize" type="integer"/>
+      <attribute id="Viejos" title="Viejos" type="integer"/>
+      <attribute id="Nuevos" title="Nuevos" type="integer"/>
+    </attributes>
+    <nodes>
+      <node id="Domingo" label="Domingo">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="500" y="-500"/>
+      </node>
+      <node id="Carlos" label="Carlos">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="462.9172873477993" y="-230.2032288429757"/>
+      </node>
+      <node id="Eduardo" label="Eduardo">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="354.4194045464885" y="19.58395003543353"/>
+      </node>
+      <node id="Alejandro" label="Alejandro">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="182.5531432186541" y="230.83596427812404"/>
+      </node>
+      <node id="Bob" label="Bob">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="1"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-39.93496226884781" y="387.88521840237524"/>
+      </node>
+      <node id="Mike" label="Mike">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-296.54398694736625" y="479.0840876823229"/>
+      </node>
+      <node id="Ike" label="Ike">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-568.2424133646709" y="497.66876919053914"/>
+      </node>
+      <node id="Hal" label="Hal">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-834.8796121709861" y="442.26092211882053"/>
+      </node>
+      <node id="John" label="John">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1076.680322114867" y="316.9698930104421"/>
+      </node>
+      <node id="Lanny" label="Lanny">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1275.7112907044198" y="131.08794432605293"/>
+      </node>
+      <node id="Norm" label="Norm">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="1"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1417.211301505453" y="-101.5989101537586"/>
+      </node>
+      <node id="Gill" label="Gill">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1490.6859460363307" y="-363.83335090375294"/>
+      </node>
+      <node id="Karl" label="Karl">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1490.6859460363307" y="-636.1666490962464"/>
+      </node>
+      <node id="Ozzie" label="Ozzie">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1417.2113015054529" y="-898.4010898462416"/>
+      </node>
+      <node id="Paul" label="Paul">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1275.7112907044198" y="-1131.0879443260528"/>
+      </node>
+      <node id="Utrecht" label="Utrecht">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-1076.680322114867" y="-1316.9698930104419"/>
+      </node>
+      <node id="Vern" label="Vern">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-834.8796121709863" y="-1442.2609221188204"/>
+      </node>
+      <node id="Sam" label="Sam">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="1"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-568.2424133646705" y="-1497.6687691905393"/>
+      </node>
+      <node id="Quint" label="Quint">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-296.5439869473667" y="-1479.0840876823231"/>
+      </node>
+      <node id="Russ" label="Russ">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="-39.93496226884838" y="-1387.8852184023756"/>
+      </node>
+      <node id="Ted" label="Ted">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="182.5531432186542" y="-1230.835964278124"/>
+      </node>
+      <node id="Xavier" label="Xavier">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="0"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="354.4194045464885" y="-1019.5839500354335"/>
+      </node>
+      <node id="Wendle" label="Wendle">
+        <attvalues>
+          <attvalue for="rawSize" value="30"/>
+          <attvalue for="Viejos" value="1"/>
+          <attvalue for="Nuevos" value="0"/>
+        </attvalues>
+        <viz:color r="153" g="153" b="153"/>
+        <viz:size value="30"/>
+        <viz:position x="462.91728734779906" y="-769.7967711570252"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="82" source="Domingo" target="Carlos" weight="1"/>
+      <edge id="83" source="Domingo" target="Eduardo" weight="1"/>
+      <edge id="84" source="Eduardo" target="Carlos" weight="1"/>
+      <edge id="85" source="Domingo" target="Alejandro" weight="1"/>
+      <edge id="86" source="Carlos" target="Alejandro" weight="1"/>
+      <edge id="87" source="Eduardo" target="Alejandro" weight="1"/>
+      <edge id="88" source="Bob" target="Alejandro" weight="1"/>
+      <edge id="89" source="Bob" target="Mike" weight="1"/>
+      <edge id="90" source="Bob" target="Ike" weight="1"/>
+      <edge id="91" source="Bob" target="Hal" weight="1"/>
+      <edge id="92" source="Bob" target="John" weight="1"/>
+      <edge id="93" source="Bob" target="Lanny" weight="1"/>
+      <edge id="94" source="Bob" target="Norm" weight="1"/>
+      <edge id="95" source="Mike" target="Ike" weight="1"/>
+      <edge id="96" source="Ike" target="Bob" weight="1"/>
+      <edge id="97" source="Hal" target="John" weight="1"/>
+      <edge id="98" source="John" target="Gill" weight="1"/>
+      <edge id="99" source="Gill" target="John" weight="1"/>
+      <edge id="100" source="John" target="Karl" weight="1"/>
+      <edge id="101" source="Karl" target="Lanny" weight="1"/>
+      <edge id="102" source="Karl" target="Ozzie" weight="1"/>
+      <edge id="103" source="Norm" target="Ozzie" weight="1"/>
+      <edge id="104" source="Norm" target="Paul" weight="1"/>
+      <edge id="105" source="Norm" target="Utrecht" weight="1"/>
+      <edge id="106" source="Norm" target="Vern" weight="1"/>
+      <edge id="107" source="Norm" target="Sam" weight="1"/>
+      <edge id="108" source="Paul" target="Quint" weight="1"/>
+      <edge id="109" source="Quint" target="Russ" weight="1"/>
+      <edge id="110" source="Quint" target="Utrecht" weight="1"/>
+      <edge id="111" source="Russ" target="Ted" weight="1"/>
+      <edge id="112" source="Ted" target="Vern" weight="1"/>
+      <edge id="113" source="Utrecht" target="Sam" weight="1"/>
+      <edge id="114" source="Sam" target="Xavier" weight="1"/>
+      <edge id="115" source="Xavier" target="Wendle" weight="1"/>
+      <edge id="116" source="Wendle" target="Sam" weight="1"/>
+    </edges>
+  </graph>
+</gexf>
