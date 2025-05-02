@@ -1,0 +1,5122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:viz="http:///www.gexf.net/1.1draft/viz">
+  <meta>
+    <title>ThronesDef.graphml</title>
+  </meta>
+  <graph defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="modularityclass" title="modularityclass" type="string"/>
+      <attribute id="grado" title="grado" type="string"/>
+    </attributes>
+    <attributes class="edge">
+      <attribute id="book" title="book" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="Eddard-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="66"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="118.8438" y="-38.605686"/>
+      </node>
+      <node id="Robert-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="50"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="2.100545" y="-83.90085"/>
+      </node>
+      <node id="Tyrion-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="46"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="120.02934" y="105.91462"/>
+      </node>
+      <node id="Catelyn-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="43"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-14.248847" y="149.36743"/>
+      </node>
+      <node id="Jon-Snow">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="37"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-110.04221" y="-34.986687"/>
+      </node>
+      <node id="Robb-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="35"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="20.207584" y="88.83979"/>
+      </node>
+      <node id="Sansa-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="35"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="77.85721" y="-61.24672"/>
+      </node>
+      <node id="Bran-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="32"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="49.3675" y="90.18585"/>
+      </node>
+      <node id="Cersei-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="30"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="75.47922" y="0.66886806"/>
+      </node>
+      <node id="Joffrey-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="30"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="81.286255" y="-21.009026"/>
+      </node>
+      <node id="Jaime-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="29"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="118.800064" y="80.444626"/>
+      </node>
+      <node id="Arya-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="27"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="65.71492" y="-43.128777"/>
+      </node>
+      <node id="Petyr-Baelish">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="26"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="74.34877" y="15.372048"/>
+      </node>
+      <node id="Tywin-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="22"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="67.297874" y="81.040825"/>
+      </node>
+      <node id="Daenerys-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="21"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-131.1829" y="-322.00983"/>
+      </node>
+      <node id="Jory-Cassel">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="21"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="117.22861" y="-27.957222"/>
+      </node>
+      <node id="Drogo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="19"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-233.01375" y="-319.51852"/>
+      </node>
+      <node id="Rodrik-Cassel">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="18"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="78.67952" y="68.994385"/>
+      </node>
+      <node id="Renly-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="18"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="137.40045" y="-24.07744"/>
+      </node>
+      <node id="Luwin">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="18"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="26.581345" y="119.32218"/>
+      </node>
+      <node id="Varys">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="17"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="10.838617" y="-45.917213"/>
+      </node>
+      <node id="Sandor-Clegane">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="16"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="164.22777" y="-52.94097"/>
+      </node>
+      <node id="Jon-Arryn">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="15"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-15.933811" y="50.188618"/>
+      </node>
+      <node id="Theon-Greyjoy">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="15"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="24.331581" y="100.34694"/>
+      </node>
+      <node id="Lysa-Arryn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="15"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="3.5831532" y="154.6628"/>
+      </node>
+      <node id="Benjen-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="14"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="92.02244" y="45.12013"/>
+      </node>
+      <node id="Barristan-Selmy">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="14"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="98.60817" y="-56.091145"/>
+      </node>
+      <node id="Pycelle">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="14"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="49.181248" y="-37.695965"/>
+      </node>
+      <node id="Loras-Tyrell">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="14"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="199.3032" y="-41.989605"/>
+      </node>
+      <node id="Jeor-Mormont">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="13"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-73.35278" y="30.504799"/>
+      </node>
+      <node id="Jorah-Mormont">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="13"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-160.53693" y="-337.08917"/>
+      </node>
+      <node id="Samwell-Tarly">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="12"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-256.04877" y="-12.852487"/>
+      </node>
+      <node id="Gregor-Clegane">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="12"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="113.291695" y="13.596955"/>
+      </node>
+      <node id="Stannis-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="12"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="41.360966" y="2.7884116"/>
+      </node>
+      <node id="Mordane">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="11"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="20.913284" y="-99.24385"/>
+      </node>
+      <node id="Brynden-Tully">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="11"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="10.445324" y="204.68564"/>
+      </node>
+      <node id="Edmure-Tully">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="11"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="19.549124" y="159.27975"/>
+      </node>
+      <node id="Alliser-Thorne">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-186.28206" y="-0.80615807"/>
+      </node>
+      <node id="Rickard-Karstark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="101.80102" y="190.34612"/>
+      </node>
+      <node id="Bronn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="10"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="183.76619" y="183.19727"/>
+      </node>
+      <node id="Ilyn-Payne">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="9"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="117.456024" y="-107.6067"/>
+      </node>
+      <node id="Meryn-Trant">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="9"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="96.20711" y="-130.81735"/>
+      </node>
+      <node id="Rickon-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="9"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="18.397568" y="36.86055"/>
+      </node>
+      <node id="Halder">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="8"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-312.84125" y="-43.96526"/>
+      </node>
+      <node id="Tommen-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="8"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="9.749287" y="6.7165117"/>
+      </node>
+      <node id="Jon-Umber-(Greatjon)">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="8"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="80.56395" y="242.75146"/>
+      </node>
+      <node id="Irri">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="8"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-214.63722" y="-388.63144"/>
+      </node>
+      <node id="Viserys-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="8"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-140.40991" y="-283.62527"/>
+      </node>
+      <node id="Aemon-Targaryen-(Maester-Aemon)">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-292.58887" y="-86.317154"/>
+      </node>
+      <node id="Grenn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-278.4249" y="3.01396"/>
+      </node>
+      <node id="Pypar">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-320.00934" y="-9.52413"/>
+      </node>
+      <node id="Tomard">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="164.56474" y="-140.28453"/>
+      </node>
+      <node id="Myrcella-Baratheon">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="3.1810927" y="-125.606415"/>
+      </node>
+      <node id="Yoren">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-20.53864" y="61.536983"/>
+      </node>
+      <node id="Walder-Frey">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-93.87523" y="238.45833"/>
+      </node>
+      <node id="Janos-Slynt">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="56.01121" y="-121.5698"/>
+      </node>
+      <node id="Qotho">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-242.70328" y="-466.06763"/>
+      </node>
+      <node id="Rhaegar-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="7"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-41.780228" y="-178.36461"/>
+      </node>
+      <node id="Aerys-II-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-29.15579" y="15.776989"/>
+      </node>
+      <node id="Brandon-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="157.65779" y="-8.294691"/>
+      </node>
+      <node id="Aggo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-263.9314" y="-435.06207"/>
+      </node>
+      <node id="Jhogo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-221.34952" y="-448.1831"/>
+      </node>
+      <node id="Rast">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-315.8184" y="-66.26064"/>
+      </node>
+      <node id="Jeyne-Poole">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="103.739136" y="-173.59213"/>
+      </node>
+      <node id="Beric-Dondarrion">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="233.40474" y="-126.08176"/>
+      </node>
+      <node id="Hullen">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="164.38416" y="57.44236"/>
+      </node>
+      <node id="Shagga">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="394.22043" y="204.2206"/>
+      </node>
+      <node id="Vardis-Egen">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="6.4681654" y="249.71109"/>
+      </node>
+      <node id="Willis-Wode">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="164.93547" y="206.07658"/>
+      </node>
+      <node id="Haggo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-250.94876" y="-502.04633"/>
+      </node>
+      <node id="Doreah">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-261.9088" y="-385.10193"/>
+      </node>
+      <node id="Illyrio-Mopatis">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-165.16612" y="-275.30524"/>
+      </node>
+      <node id="Mirri-Maz-Duur">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-198.0882" y="-472.8931"/>
+      </node>
+      <node id="Galbart-Glover">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="6"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="141.35191" y="152.39235"/>
+      </node>
+      <node id="Bowen-Marsh">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-250.84488" y="10.692028"/>
+      </node>
+      <node id="Gerold-Hightower">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-135.53346" y="139.19064"/>
+      </node>
+      <node id="Quaro">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-300.00247" y="-473.8139"/>
+      </node>
+      <node id="Rakharo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-319.87805" y="-456.56302"/>
+      </node>
+      <node id="Alyn">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="168.69514" y="-171.89395"/>
+      </node>
+      <node id="Mycah">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="189.5308" y="-118.97009"/>
+      </node>
+      <node id="Vayon-Poole">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="116.8916" y="-138.28995"/>
+      </node>
+      <node id="Boros-Blount">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="167.84859" y="-115.13581"/>
+      </node>
+      <node id="Hallis-Mollen">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-9.555392" y="215.18002"/>
+      </node>
+      <node id="Marillion">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="143.28902" y="212.64258"/>
+      </node>
+      <node id="Hoster-Tully">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-80.54552" y="108.19357"/>
+      </node>
+      <node id="Jhiqui">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-286.76373" y="-411.10202"/>
+      </node>
+      <node id="Marq-Piper">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-48.573105" y="107.94397"/>
+      </node>
+      <node id="Roose-Bolton">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="5"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="103.49695" y="261.11005"/>
+      </node>
+      <node id="Harwin">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="241.85216" y="-83.60133"/>
+      </node>
+      <node id="Jaremy-Rykker">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-75.91553" y="-167.1074"/>
+      </node>
+      <node id="Hodor">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-67.484604" y="216.88689"/>
+      </node>
+      <node id="Nan">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-86.35769" y="192.39455"/>
+      </node>
+      <node id="Lyanna-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="78.38875" y="-165.65306"/>
+      </node>
+      <node id="Cohollo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-284.663" y="-504.05814"/>
+      </node>
+      <node id="Wyl-(guard)">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="276.8233" y="-15.924147"/>
+      </node>
+      <node id="Todder">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="4"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-349.0751" y="-19.090124"/>
+      </node>
+      <node id="Chett">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-348.1406" y="-85.290726"/>
+      </node>
+      <node id="Albett">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-332.18613" y="-126.48959"/>
+      </node>
+      <node id="Syrio-Forel">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="150.49428" y="-208.91023"/>
+      </node>
+      <node id="Waymar-Royce">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="305.86484" y="265.05493"/>
+      </node>
+      <node id="Osha">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-30.337566" y="246.07716"/>
+      </node>
+      <node id="Chiggen">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="261.41364" y="276.20523"/>
+      </node>
+      <node id="Eon-Hunter">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-65.77193" y="314.81143"/>
+      </node>
+      <node id="Robert-Arryn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="59.404964" y="279.8096"/>
+      </node>
+      <node id="Tytos-Blackwood">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="246.33923" y="192.66652"/>
+      </node>
+      <node id="Cayn">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="244.02087" y="-181.02722"/>
+      </node>
+      <node id="Karyl-Vance">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-245.4469" y="248.53966"/>
+      </node>
+      <node id="Conn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="354.45526" y="-39.25608"/>
+      </node>
+      <node id="Danwell-Frey">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-344.05716" y="377.52277"/>
+      </node>
+      <node id="Torrhen-Karstark">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="101.27128" y="150.30618"/>
+      </node>
+      <node id="Ogo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-112.461365" y="-264.80582"/>
+      </node>
+      <node id="Gared">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="196.51389" y="253.40416"/>
+      </node>
+      <node id="Kevan-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="3"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="185.61017" y="205.61963"/>
+      </node>
+      <node id="Addam-Marbrand">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="156.18222" y="259.17728"/>
+      </node>
+      <node id="Aegon-I-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="4.453535" y="-289.36734"/>
+      </node>
+      <node id="Desmond">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="251.73091" y="-162.07425"/>
+      </node>
+      <node id="Balon-Greyjoy">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-37.8127" y="-165.11438"/>
+      </node>
+      <node id="Balon-Swann">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="318.08224" y="-131.76762"/>
+      </node>
+      <node id="Joseth">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="48.84766" y="314.82425"/>
+      </node>
+      <node id="Rickard-Stark">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="258.8024" y="89.15365"/>
+      </node>
+      <node id="Stiv">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="0.27851725" y="290.65192"/>
+      </node>
+      <node id="Shae">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="334.69516" y="135.54346"/>
+      </node>
+      <node id="Nestor-Royce">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-1.7378349" y="367.18106"/>
+      </node>
+      <node id="Colemon">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-158.17169" y="277.2201"/>
+      </node>
+      <node id="Stevron-Frey">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-128.84088" y="337.80753"/>
+      </node>
+      <node id="Wendel-Manderly">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-162.63686" y="180.50943"/>
+      </node>
+      <node id="Hosteen-Frey">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-497.02817" y="436.2772"/>
+      </node>
+      <node id="Jared-Frey">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-410.8738" y="299.47983"/>
+      </node>
+      <node id="Daryn-Hornwood">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="130.92583" y="215.60425"/>
+      </node>
+      <node id="Jommo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-261.60193" y="-161.00238"/>
+      </node>
+      <node id="High-Septon-(fat_one)">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="281.93744" y="-78.65678"/>
+      </node>
+      <node id="Raymun-Darry">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="68.39619" y="-224.3915"/>
+      </node>
+      <node id="Will-(prologue)">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="376.45853" y="390.5768"/>
+      </node>
+      <node id="Heward">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="365.7171" y="-107.007935"/>
+      </node>
+      <node id="Maege-Mormont">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="153.20543" y="390.7212"/>
+      </node>
+      <node id="Jyck">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="372.07526" y="232.29779"/>
+      </node>
+      <node id="Morrec">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="389.566" y="170.07439"/>
+      </node>
+      <node id="Mace-Tyrell">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="513.4612" y="-62.061337"/>
+      </node>
+      <node id="Timett">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="2"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="358.19513" y="264.48245"/>
+      </node>
+      <node id="Clydas">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-503.75446" y="-204.37755"/>
+      </node>
+      <node id="Arthur-Dayne">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-332.35193" y="303.07227"/>
+      </node>
+      <node id="Arys-Oakheart">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="287.03067" y="157.17404"/>
+      </node>
+      <node id="Mance-Rayder">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="372.1279" y="73.06373"/>
+      </node>
+      <node id="Thoros-of-Myr">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="456.49298" y="-239.77756"/>
+      </node>
+      <node id="Hali">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="54.748554" y="389.71048"/>
+      </node>
+      <node id="Donnel-Waynwood">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-248.66733" y="180.23561"/>
+      </node>
+      <node id="Masha-Heddle">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-192.8232" y="64.99049"/>
+      </node>
+      <node id="Moreo-Tumitis">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-159.40155" y="369.95764"/>
+      </node>
+      <node id="Mya-Stone">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-235.1751" y="156.58925"/>
+      </node>
+      <node id="Mychel-Redfort">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-49.54483" y="415.0652"/>
+      </node>
+      <node id="Chella">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="232.42915" y="-141.38528"/>
+      </node>
+      <node id="Clement-Piper">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-467.8502" y="318.91553"/>
+      </node>
+      <node id="Coratt">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="339.63046" y="-341.05252"/>
+      </node>
+      <node id="Eroeh">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-33.855286" y="-519.1934"/>
+      </node>
+      <node id="Dareon">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-374.3011" y="24.321594"/>
+      </node>
+      <node id="Dolf">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="461.72284" y="409.2328"/>
+      </node>
+      <node id="Donal-Noye">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-357.9429" y="-139.07509"/>
+      </node>
+      <node id="Rhaego">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-440.75095" y="-135.65033"/>
+      </node>
+      <node id="Dywen">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-61.796738" y="-284.8226"/>
+      </node>
+      <node id="Gendry">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="377.57285" y="-5.487739"/>
+      </node>
+      <node id="Howland-Reed">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="342.02795" y="-190.9731"/>
+      </node>
+      <node id="Jacks">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="385.82327" y="-54.92607"/>
+      </node>
+      <node id="Joss">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="105.22472" y="-293.88293"/>
+      </node>
+      <node id="Porther">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="320.4855" y="85.04236"/>
+      </node>
+      <node id="Tobho-Mott">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="274.0073" y="185.51462"/>
+      </node>
+      <node id="Tregar">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="386.5386" y="-91.17982"/>
+      </node>
+      <node id="Varly">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="267.99176" y="-258.43436"/>
+      </node>
+      <node id="Wylla">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="312.32755" y="-228.80351"/>
+      </node>
+      <node id="Fogo">
+        <attvalues>
+          <attvalue for="modularityclass" value="0"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="123.04028" y="-269.52927"/>
+      </node>
+      <node id="Oswell-Whent">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-281.08533" y="362.07437"/>
+      </node>
+      <node id="Gunthor-son-of-Gurn">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="261.78796" y="362.86374"/>
+      </node>
+      <node id="Harys-Swyft">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="209.85542" y="329.47455"/>
+      </node>
+      <node id="Hobb">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-139.60208" y="-262.00232"/>
+      </node>
+      <node id="Hugh">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-255.94691" y="174.67929"/>
+      </node>
+      <node id="Jafer-Flowers">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-91.09747" y="-436.2708"/>
+      </node>
+      <node id="Matthar">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-392.73727" y="-64.722305"/>
+      </node>
+      <node id="Othor">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-241.07774" y="-234.45782"/>
+      </node>
+      <node id="Jonos-Bracken">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="489.16144" y="263.22147"/>
+      </node>
+      <node id="Kurleket">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-46.542206" y="303.87064"/>
+      </node>
+      <node id="Lancel-Lannister">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="25.264036" y="-342.51715"/>
+      </node>
+      <node id="Leo-Lefford">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="44.478798" y="353.42038"/>
+      </node>
+      <node id="Lyn-Corbray">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-90.52032" y="408.61032"/>
+      </node>
+      <node id="Paxter-Redwyne">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="727.6498" y="-53.74344"/>
+      </node>
+      <node id="Maegor-I-Targaryen">
+        <attvalues>
+          <attvalue for="modularityclass" value="1"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="189.05243" y="-333.65063"/>
+      </node>
+      <node id="Mord">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="303.2412" y="333.2014"/>
+      </node>
+      <node id="Randyll-Tarly">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="-501.7776" y="-15.867483"/>
+      </node>
+      <node id="Ulf-son-of-Umar">
+        <attvalues>
+          <attvalue for="modularityclass" value="2"/>
+          <attvalue for="grado" value="1"/>
+        </attvalues>
+        <viz:color r="192" g="192" b="192"/>
+        <viz:size value="4"/>
+        <viz:position x="602.9067" y="288.79068"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="geid_126_0" source="Addam-Marbrand" target="Jaime-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_1" source="Addam-Marbrand" target="Tywin-Lannister" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_2" source="Aegon-I-Targaryen" target="Daenerys-Targaryen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_3" source="Aegon-I-Targaryen" target="Eddard-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_4" source="Aemon-Targaryen-(Maester-Aemon)" target="Alliser-Thorne" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_5" source="Aemon-Targaryen-(Maester-Aemon)" target="Bowen-Marsh" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_6" source="Aemon-Targaryen-(Maester-Aemon)" target="Chett" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_7" source="Aemon-Targaryen-(Maester-Aemon)" target="Clydas" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_8" source="Aemon-Targaryen-(Maester-Aemon)" target="Jeor-Mormont" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_9" source="Aemon-Targaryen-(Maester-Aemon)" target="Jon-Snow" weight="34">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_10" source="Aemon-Targaryen-(Maester-Aemon)" target="Samwell-Tarly" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_11" source="Aerys-II-Targaryen" target="Brandon-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_12" source="Aerys-II-Targaryen" target="Eddard-Stark" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_13" source="Aerys-II-Targaryen" target="Gerold-Hightower" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_14" source="Aerys-II-Targaryen" target="Jaime-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_15" source="Aerys-II-Targaryen" target="Jon-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_16" source="Aerys-II-Targaryen" target="Robert-Baratheon" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_17" source="Aggo" target="Daenerys-Targaryen" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_18" source="Aggo" target="Drogo" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_19" source="Aggo" target="Jhogo" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_20" source="Aggo" target="Jorah-Mormont" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_21" source="Aggo" target="Quaro" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_22" source="Aggo" target="Rakharo" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_23" source="Albett" target="Halder" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_24" source="Albett" target="Jon-Snow" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_25" source="Albett" target="Rast" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_26" source="Alliser-Thorne" target="Bowen-Marsh" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_27" source="Alliser-Thorne" target="Grenn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_28" source="Alliser-Thorne" target="Halder" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_29" source="Alliser-Thorne" target="Jeor-Mormont" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_30" source="Alliser-Thorne" target="Jon-Snow" weight="32">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_31" source="Alliser-Thorne" target="Pypar" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_32" source="Alliser-Thorne" target="Rast" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_33" source="Alliser-Thorne" target="Samwell-Tarly" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_34" source="Alliser-Thorne" target="Tyrion-Lannister" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_35" source="Alyn" target="Eddard-Stark" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_36" source="Alyn" target="Harwin" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_37" source="Alyn" target="Jory-Cassel" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_38" source="Alyn" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_39" source="Alyn" target="Tomard" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_40" source="Arthur-Dayne" target="Gerold-Hightower" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_41" source="Arya-Stark" target="Benjen-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_42" source="Arya-Stark" target="Bran-Stark" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_43" source="Arya-Stark" target="Catelyn-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_44" source="Arya-Stark" target="Cersei-Lannister" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_45" source="Arya-Stark" target="Desmond" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_46" source="Arya-Stark" target="Eddard-Stark" weight="30">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_47" source="Arya-Stark" target="Ilyn-Payne" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_48" source="Arya-Stark" target="Jeyne-Poole" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_49" source="Arya-Stark" target="Joffrey-Baratheon" weight="39">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_50" source="Arya-Stark" target="Jon-Snow" weight="37">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_51" source="Arya-Stark" target="Jory-Cassel" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_52" source="Arya-Stark" target="Meryn-Trant" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_53" source="Arya-Stark" target="Mordane" weight="39">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_54" source="Arya-Stark" target="Mycah" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_55" source="Arya-Stark" target="Myrcella-Baratheon" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_56" source="Arya-Stark" target="Petyr-Baelish" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_57" source="Arya-Stark" target="Rickon-Stark" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_58" source="Arya-Stark" target="Robb-Stark" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_59" source="Arya-Stark" target="Robert-Baratheon" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_60" source="Arya-Stark" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_61" source="Arya-Stark" target="Sandor-Clegane" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_62" source="Arya-Stark" target="Sansa-Stark" weight="104">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_63" source="Arya-Stark" target="Syrio-Forel" weight="20">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_64" source="Arya-Stark" target="Tomard" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_65" source="Arya-Stark" target="Tommen-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_66" source="Arya-Stark" target="Vayon-Poole" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_67" source="Arya-Stark" target="Yoren" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_68" source="Arys-Oakheart" target="Cersei-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_69" source="Balon-Greyjoy" target="Eddard-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_70" source="Balon-Greyjoy" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_71" source="Balon-Swann" target="Renly-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_72" source="Balon-Swann" target="Sandor-Clegane" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_73" source="Barristan-Selmy" target="Boros-Blount" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_74" source="Barristan-Selmy" target="Cersei-Lannister" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_75" source="Barristan-Selmy" target="Eddard-Stark" weight="28">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_76" source="Barristan-Selmy" target="Jaime-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_77" source="Barristan-Selmy" target="Joffrey-Baratheon" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_78" source="Barristan-Selmy" target="Jon-Arryn" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_79" source="Barristan-Selmy" target="Meryn-Trant" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_80" source="Barristan-Selmy" target="Petyr-Baelish" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_81" source="Barristan-Selmy" target="Pycelle" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_82" source="Barristan-Selmy" target="Renly-Baratheon" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_83" source="Barristan-Selmy" target="Robert-Baratheon" weight="40">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_84" source="Barristan-Selmy" target="Sandor-Clegane" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_85" source="Barristan-Selmy" target="Sansa-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_86" source="Barristan-Selmy" target="Varys" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_87" source="Benjen-Stark" target="Bran-Stark" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_88" source="Benjen-Stark" target="Cersei-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_89" source="Benjen-Stark" target="Jaremy-Rykker" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_90" source="Benjen-Stark" target="Jeor-Mormont" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_91" source="Benjen-Stark" target="Jon-Snow" weight="41">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_92" source="Benjen-Stark" target="Luwin" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_93" source="Benjen-Stark" target="Mance-Rayder" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_94" source="Benjen-Stark" target="Robb-Stark" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_95" source="Benjen-Stark" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_96" source="Benjen-Stark" target="Theon-Greyjoy" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_97" source="Benjen-Stark" target="Tyrion-Lannister" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_98" source="Benjen-Stark" target="Waymar-Royce" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_99" source="Benjen-Stark" target="Yoren" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_100" source="Beric-Dondarrion" target="Eddard-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_101" source="Beric-Dondarrion" target="Gregor-Clegane" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_102" source="Beric-Dondarrion" target="Loras-Tyrell" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_103" source="Beric-Dondarrion" target="Robert-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_104" source="Beric-Dondarrion" target="Sansa-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_105" source="Beric-Dondarrion" target="Thoros-of-Myr" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_106" source="Boros-Blount" target="Cersei-Lannister" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_107" source="Boros-Blount" target="Joffrey-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_108" source="Boros-Blount" target="Meryn-Trant" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_109" source="Boros-Blount" target="Sansa-Stark" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_110" source="Bowen-Marsh" target="Jeor-Mormont" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_111" source="Bowen-Marsh" target="Jon-Snow" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_112" source="Bowen-Marsh" target="Samwell-Tarly" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_113" source="Bran-Stark" target="Catelyn-Stark" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_114" source="Bran-Stark" target="Cersei-Lannister" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_115" source="Bran-Stark" target="Eddard-Stark" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_116" source="Bran-Stark" target="Hali" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_117" source="Bran-Stark" target="Hallis-Mollen" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_118" source="Bran-Stark" target="Hodor" weight="29">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_119" source="Bran-Stark" target="Hullen" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_120" source="Bran-Stark" target="Jeor-Mormont" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_121" source="Bran-Stark" target="Joffrey-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_122" source="Bran-Stark" target="Jon-Arryn" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_123" source="Bran-Stark" target="Jon-Snow" weight="56">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_124" source="Bran-Stark" target="Jory-Cassel" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_125" source="Bran-Stark" target="Joseth" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_126" source="Bran-Stark" target="Luwin" weight="65">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_127" source="Bran-Stark" target="Nan" weight="17">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_128" source="Bran-Stark" target="Osha" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_129" source="Bran-Stark" target="Petyr-Baelish" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_130" source="Bran-Stark" target="Renly-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_131" source="Bran-Stark" target="Rickard-Karstark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_132" source="Bran-Stark" target="Rickard-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_133" source="Bran-Stark" target="Rickon-Stark" weight="32">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_134" source="Bran-Stark" target="Robb-Stark" weight="112">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_135" source="Bran-Stark" target="Robert-Baratheon" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_136" source="Bran-Stark" target="Rodrik-Cassel" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_137" source="Bran-Stark" target="Sansa-Stark" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_138" source="Bran-Stark" target="Stiv" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_139" source="Bran-Stark" target="Theon-Greyjoy" weight="23">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_140" source="Bran-Stark" target="Tommen-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_141" source="Bran-Stark" target="Tyrion-Lannister" weight="31">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_142" source="Bran-Stark" target="Yoren" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_143" source="Brandon-Stark" target="Eddard-Stark" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_144" source="Brandon-Stark" target="Lyanna-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_145" source="Brandon-Stark" target="Petyr-Baelish" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_146" source="Brandon-Stark" target="Rickard-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_147" source="Brandon-Stark" target="Robert-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_148" source="Bronn" target="Catelyn-Stark" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_149" source="Bronn" target="Chiggen" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_150" source="Bronn" target="Marillion" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_151" source="Bronn" target="Rodrik-Cassel" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_152" source="Bronn" target="Shae" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_153" source="Bronn" target="Shagga" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_154" source="Bronn" target="Tyrion-Lannister" weight="61">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_155" source="Bronn" target="Tywin-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_156" source="Bronn" target="Vardis-Egen" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_157" source="Bronn" target="Willis-Wode" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_158" source="Brynden-Tully" target="Catelyn-Stark" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_159" source="Brynden-Tully" target="Edmure-Tully" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_160" source="Brynden-Tully" target="Hoster-Tully" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_161" source="Brynden-Tully" target="Jaime-Lannister" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_162" source="Brynden-Tully" target="Lysa-Arryn" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_163" source="Brynden-Tully" target="Nestor-Royce" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_164" source="Brynden-Tully" target="Robb-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_165" source="Brynden-Tully" target="Theon-Greyjoy" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_166" source="Brynden-Tully" target="Tyrion-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_167" source="Brynden-Tully" target="Tywin-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_168" source="Brynden-Tully" target="Walder-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_169" source="Catelyn-Stark" target="Cersei-Lannister" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_170" source="Catelyn-Stark" target="Colemon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_171" source="Catelyn-Stark" target="Donnel-Waynwood" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_172" source="Catelyn-Stark" target="Eddard-Stark" weight="64">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_173" source="Catelyn-Stark" target="Edmure-Tully" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_174" source="Catelyn-Stark" target="Eon-Hunter" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_175" source="Catelyn-Stark" target="Hallis-Mollen" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_176" source="Catelyn-Stark" target="Hoster-Tully" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_177" source="Catelyn-Stark" target="Jaime-Lannister" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_178" source="Catelyn-Stark" target="Joffrey-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_179" source="Catelyn-Stark" target="Jon-Arryn" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_180" source="Catelyn-Stark" target="Jon-Snow" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_181" source="Catelyn-Stark" target="Jon-Umber-(Greatjon)" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_182" source="Catelyn-Stark" target="Luwin" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_183" source="Catelyn-Stark" target="Lysa-Arryn" weight="33">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_184" source="Catelyn-Stark" target="Marillion" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_185" source="Catelyn-Stark" target="Masha-Heddle" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_186" source="Catelyn-Stark" target="Moreo-Tumitis" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_187" source="Catelyn-Stark" target="Mya-Stone" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_188" source="Catelyn-Stark" target="Mychel-Redfort" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_189" source="Catelyn-Stark" target="Nestor-Royce" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_190" source="Catelyn-Stark" target="Petyr-Baelish" weight="22">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_191" source="Catelyn-Stark" target="Rickard-Karstark" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_192" source="Catelyn-Stark" target="Rickon-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_193" source="Catelyn-Stark" target="Robb-Stark" weight="49">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_194" source="Catelyn-Stark" target="Robert-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_195" source="Catelyn-Stark" target="Robert-Baratheon" weight="22">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_196" source="Catelyn-Stark" target="Rodrik-Cassel" weight="25">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_197" source="Catelyn-Stark" target="Sansa-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_198" source="Catelyn-Stark" target="Stevron-Frey" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_199" source="Catelyn-Stark" target="Theon-Greyjoy" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_200" source="Catelyn-Stark" target="Tyrion-Lannister" weight="49">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_201" source="Catelyn-Stark" target="Tytos-Blackwood" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_202" source="Catelyn-Stark" target="Tywin-Lannister" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_203" source="Catelyn-Stark" target="Vardis-Egen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_204" source="Catelyn-Stark" target="Varys" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_205" source="Catelyn-Stark" target="Walder-Frey" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_206" source="Catelyn-Stark" target="Wendel-Manderly" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_207" source="Catelyn-Stark" target="Willis-Wode" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_208" source="Cayn" target="Eddard-Stark" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_209" source="Cayn" target="Renly-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_210" source="Cayn" target="Tomard" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_211" source="Cersei-Lannister" target="Eddard-Stark" weight="69">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_212" source="Cersei-Lannister" target="Ilyn-Payne" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_213" source="Cersei-Lannister" target="Jaime-Lannister" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_214" source="Cersei-Lannister" target="Janos-Slynt" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_215" source="Cersei-Lannister" target="Joffrey-Baratheon" weight="42">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_216" source="Cersei-Lannister" target="Jon-Arryn" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_217" source="Cersei-Lannister" target="Jon-Snow" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_218" source="Cersei-Lannister" target="Jory-Cassel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_219" source="Cersei-Lannister" target="Meryn-Trant" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_220" source="Cersei-Lannister" target="Mordane" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_221" source="Cersei-Lannister" target="Myrcella-Baratheon" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_222" source="Cersei-Lannister" target="Petyr-Baelish" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_223" source="Cersei-Lannister" target="Pycelle" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_224" source="Cersei-Lannister" target="Renly-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_225" source="Cersei-Lannister" target="Robert-Baratheon" weight="72">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_226" source="Cersei-Lannister" target="Sandor-Clegane" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_227" source="Cersei-Lannister" target="Sansa-Stark" weight="29">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_228" source="Cersei-Lannister" target="Stannis-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_229" source="Cersei-Lannister" target="Tommen-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_230" source="Cersei-Lannister" target="Tyrion-Lannister" weight="27">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_231" source="Cersei-Lannister" target="Tywin-Lannister" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_232" source="Cersei-Lannister" target="Varys" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_233" source="Cersei-Lannister" target="Vayon-Poole" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_234" source="Chella" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_235" source="Chett" target="Jon-Snow" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_236" source="Chett" target="Samwell-Tarly" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_237" source="Chiggen" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_238" source="Chiggen" target="Willis-Wode" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_239" source="Clement-Piper" target="Karyl-Vance" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_240" source="Cohollo" target="Daenerys-Targaryen" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_241" source="Cohollo" target="Drogo" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_242" source="Cohollo" target="Haggo" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_243" source="Cohollo" target="Qotho" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_244" source="Colemon" target="Vardis-Egen" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_245" source="Conn" target="Coratt" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_246" source="Conn" target="Shagga" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_247" source="Conn" target="Tyrion-Lannister" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_248" source="Daenerys-Targaryen" target="Doreah" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_249" source="Daenerys-Targaryen" target="Drogo" weight="101">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_250" source="Daenerys-Targaryen" target="Eddard-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_251" source="Daenerys-Targaryen" target="Eroeh" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_252" source="Daenerys-Targaryen" target="Haggo" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_253" source="Daenerys-Targaryen" target="Illyrio-Mopatis" weight="24">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_254" source="Daenerys-Targaryen" target="Irri" weight="25">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_255" source="Daenerys-Targaryen" target="Jhiqui" weight="26">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_256" source="Daenerys-Targaryen" target="Jhogo" weight="17">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_257" source="Daenerys-Targaryen" target="Jorah-Mormont" weight="75">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_258" source="Daenerys-Targaryen" target="Mirri-Maz-Duur" weight="31">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_259" source="Daenerys-Targaryen" target="Qotho" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_260" source="Daenerys-Targaryen" target="Quaro" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_261" source="Daenerys-Targaryen" target="Rakharo" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_262" source="Daenerys-Targaryen" target="Rhaegar-Targaryen" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_263" source="Daenerys-Targaryen" target="Robert-Baratheon" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_264" source="Daenerys-Targaryen" target="Varys" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_265" source="Daenerys-Targaryen" target="Viserys-Targaryen" weight="37">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_266" source="Danwell-Frey" target="Hosteen-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_267" source="Danwell-Frey" target="Jared-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_268" source="Danwell-Frey" target="Walder-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_269" source="Dareon" target="Jon-Snow" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_270" source="Daryn-Hornwood" target="Eddard-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_271" source="Daryn-Hornwood" target="Torrhen-Karstark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_272" source="Desmond" target="Eddard-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_273" source="Dolf" target="Shagga" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_274" source="Donal-Noye" target="Jon-Snow" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_275" source="Doreah" target="Drogo" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_276" source="Doreah" target="Irri" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_277" source="Doreah" target="Jhiqui" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_278" source="Doreah" target="Jorah-Mormont" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_279" source="Doreah" target="Viserys-Targaryen" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_280" source="Drogo" target="Haggo" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_281" source="Drogo" target="Illyrio-Mopatis" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_282" source="Drogo" target="Irri" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_283" source="Drogo" target="Jhiqui" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_284" source="Drogo" target="Jhogo" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_285" source="Drogo" target="Jommo" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_286" source="Drogo" target="Jorah-Mormont" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_287" source="Drogo" target="Mirri-Maz-Duur" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_288" source="Drogo" target="Ogo" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_289" source="Drogo" target="Qotho" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_290" source="Drogo" target="Quaro" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_291" source="Drogo" target="Rakharo" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_292" source="Drogo" target="Rhaego" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_293" source="Drogo" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_294" source="Drogo" target="Viserys-Targaryen" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_295" source="Dywen" target="Jon-Snow" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_296" source="Eddard-Stark" target="Edmure-Tully" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_297" source="Eddard-Stark" target="Galbart-Glover" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_298" source="Eddard-Stark" target="Gendry" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_299" source="Eddard-Stark" target="Gerold-Hightower" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_300" source="Eddard-Stark" target="Gregor-Clegane" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_301" source="Eddard-Stark" target="Harwin" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_302" source="Eddard-Stark" target="High-Septon-(fat_one)" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_303" source="Eddard-Stark" target="Howland-Reed" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_304" source="Eddard-Stark" target="Ilyn-Payne" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_305" source="Eddard-Stark" target="Jacks" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_306" source="Eddard-Stark" target="Jaime-Lannister" weight="27">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_307" source="Eddard-Stark" target="Janos-Slynt" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_308" source="Eddard-Stark" target="Joffrey-Baratheon" weight="26">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_309" source="Eddard-Stark" target="Jon-Arryn" weight="47">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_310" source="Eddard-Stark" target="Jon-Snow" weight="38">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_311" source="Eddard-Stark" target="Jory-Cassel" weight="32">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_312" source="Eddard-Stark" target="Joss" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_313" source="Eddard-Stark" target="Loras-Tyrell" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_314" source="Eddard-Stark" target="Luwin" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_315" source="Eddard-Stark" target="Lyanna-Stark" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_316" source="Eddard-Stark" target="Lysa-Arryn" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_317" source="Eddard-Stark" target="Marq-Piper" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_318" source="Eddard-Stark" target="Mordane" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_319" source="Eddard-Stark" target="Mycah" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_320" source="Eddard-Stark" target="Petyr-Baelish" weight="81">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_321" source="Eddard-Stark" target="Porther" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_322" source="Eddard-Stark" target="Pycelle" weight="33">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_323" source="Eddard-Stark" target="Raymun-Darry" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_324" source="Eddard-Stark" target="Renly-Baratheon" weight="33">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_325" source="Eddard-Stark" target="Rhaegar-Targaryen" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_326" source="Eddard-Stark" target="Rickard-Karstark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_327" source="Eddard-Stark" target="Rickon-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_328" source="Eddard-Stark" target="Robb-Stark" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_329" source="Eddard-Stark" target="Robert-Baratheon" weight="291">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_330" source="Eddard-Stark" target="Rodrik-Cassel" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_331" source="Eddard-Stark" target="Sandor-Clegane" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_332" source="Eddard-Stark" target="Sansa-Stark" weight="34">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_333" source="Eddard-Stark" target="Stannis-Baratheon" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_334" source="Eddard-Stark" target="Syrio-Forel" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_335" source="Eddard-Stark" target="Theon-Greyjoy" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_336" source="Eddard-Stark" target="Tobho-Mott" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_337" source="Eddard-Stark" target="Tomard" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_338" source="Eddard-Stark" target="Torrhen-Karstark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_339" source="Eddard-Stark" target="Tregar" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_340" source="Eddard-Stark" target="Tyrion-Lannister" weight="21">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_341" source="Eddard-Stark" target="Tywin-Lannister" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_342" source="Eddard-Stark" target="Varly" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_343" source="Eddard-Stark" target="Varys" weight="61">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_344" source="Eddard-Stark" target="Vayon-Poole" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_345" source="Eddard-Stark" target="Wyl-(guard)" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_346" source="Eddard-Stark" target="Wylla" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_347" source="Edmure-Tully" target="Hoster-Tully" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_348" source="Edmure-Tully" target="Jaime-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_349" source="Edmure-Tully" target="Karyl-Vance" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_350" source="Edmure-Tully" target="Lysa-Arryn" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_351" source="Edmure-Tully" target="Marq-Piper" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_352" source="Edmure-Tully" target="Petyr-Baelish" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_353" source="Edmure-Tully" target="Robb-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_354" source="Edmure-Tully" target="Tytos-Blackwood" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_355" source="Eon-Hunter" target="Lysa-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_356" source="Eon-Hunter" target="Vardis-Egen" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_357" source="Fogo" target="Ogo" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_358" source="Galbart-Glover" target="Jaime-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_359" source="Galbart-Glover" target="Jon-Umber-(Greatjon)" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_360" source="Galbart-Glover" target="Rickard-Karstark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_361" source="Galbart-Glover" target="Robb-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_362" source="Galbart-Glover" target="Roose-Bolton" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_363" source="Gared" target="Jeor-Mormont" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_364" source="Gared" target="Waymar-Royce" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_365" source="Gared" target="Will-(prologue)" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_366" source="Gerold-Hightower" target="Oswell-Whent" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_367" source="Gerold-Hightower" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_368" source="Gregor-Clegane" target="Jaime-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_369" source="Gregor-Clegane" target="Loras-Tyrell" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_370" source="Gregor-Clegane" target="Marq-Piper" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_371" source="Gregor-Clegane" target="Petyr-Baelish" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_372" source="Gregor-Clegane" target="Pycelle" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_373" source="Gregor-Clegane" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_374" source="Gregor-Clegane" target="Sandor-Clegane" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_375" source="Gregor-Clegane" target="Sansa-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_376" source="Gregor-Clegane" target="Tyrion-Lannister" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_377" source="Gregor-Clegane" target="Tywin-Lannister" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_378" source="Grenn" target="Halder" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_379" source="Grenn" target="Jeor-Mormont" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_380" source="Grenn" target="Jon-Snow" weight="31">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_381" source="Grenn" target="Pypar" weight="27">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_382" source="Grenn" target="Samwell-Tarly" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_383" source="Grenn" target="Todder" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_384" source="Gunthor-son-of-Gurn" target="Tyrion-Lannister" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_385" source="Haggo" target="Mirri-Maz-Duur" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_386" source="Haggo" target="Qotho" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_387" source="Haggo" target="Rakharo" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_388" source="Halder" target="Jon-Snow" weight="23">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_389" source="Halder" target="Pypar" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_390" source="Halder" target="Rast" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_391" source="Halder" target="Samwell-Tarly" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_392" source="Halder" target="Todder" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_393" source="Hallis-Mollen" target="Luwin" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_394" source="Hallis-Mollen" target="Robb-Stark" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_395" source="Hallis-Mollen" target="Theon-Greyjoy" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_396" source="Harwin" target="Hullen" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_397" source="Harwin" target="Jory-Cassel" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_398" source="Harys-Swyft" target="Jaime-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_399" source="Heward" target="Jory-Cassel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_400" source="Heward" target="Wyl-(guard)" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_401" source="High-Septon-(fat_one)" target="Joffrey-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_402" source="Hobb" target="Jon-Snow" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_403" source="Hodor" target="Luwin" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_404" source="Hodor" target="Nan" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_405" source="Hodor" target="Robb-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_406" source="Hosteen-Frey" target="Jared-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_407" source="Hoster-Tully" target="Lysa-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_408" source="Hoster-Tully" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_409" source="Hugh" target="Jon-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_410" source="Hullen" target="Jory-Cassel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_411" source="Hullen" target="Luwin" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_412" source="Hullen" target="Robb-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_413" source="Hullen" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_414" source="Illyrio-Mopatis" target="Irri" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_415" source="Illyrio-Mopatis" target="Jorah-Mormont" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_416" source="Illyrio-Mopatis" target="Robert-Baratheon" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_417" source="Illyrio-Mopatis" target="Viserys-Targaryen" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_418" source="Ilyn-Payne" target="Jeyne-Poole" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_419" source="Ilyn-Payne" target="Joffrey-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_420" source="Ilyn-Payne" target="Loras-Tyrell" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_421" source="Ilyn-Payne" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_422" source="Ilyn-Payne" target="Sansa-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_423" source="Ilyn-Payne" target="Varys" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_424" source="Irri" target="Jhiqui" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_425" source="Irri" target="Jhogo" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_426" source="Irri" target="Jorah-Mormont" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_427" source="Irri" target="Viserys-Targaryen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_428" source="Jafer-Flowers" target="Jaremy-Rykker" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_429" source="Jaime-Lannister" target="Joffrey-Baratheon" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_430" source="Jaime-Lannister" target="Jon-Arryn" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_431" source="Jaime-Lannister" target="Jory-Cassel" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_432" source="Jaime-Lannister" target="Kevan-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_433" source="Jaime-Lannister" target="Loras-Tyrell" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_434" source="Jaime-Lannister" target="Lysa-Arryn" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_435" source="Jaime-Lannister" target="Petyr-Baelish" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_436" source="Jaime-Lannister" target="Renly-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_437" source="Jaime-Lannister" target="Rickard-Karstark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_438" source="Jaime-Lannister" target="Robb-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_439" source="Jaime-Lannister" target="Robert-Baratheon" weight="24">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_440" source="Jaime-Lannister" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_441" source="Jaime-Lannister" target="Sandor-Clegane" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_442" source="Jaime-Lannister" target="Sansa-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_443" source="Jaime-Lannister" target="Tyrion-Lannister" weight="36">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_444" source="Jaime-Lannister" target="Tywin-Lannister" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_445" source="Jaime-Lannister" target="Varys" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_446" source="Jaime-Lannister" target="Wyl-(guard)" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_447" source="Janos-Slynt" target="Joffrey-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_448" source="Janos-Slynt" target="Petyr-Baelish" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_449" source="Janos-Slynt" target="Pycelle" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_450" source="Janos-Slynt" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_451" source="Janos-Slynt" target="Sansa-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_452" source="Jaremy-Rykker" target="Jeor-Mormont" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_453" source="Jaremy-Rykker" target="Jon-Snow" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_454" source="Jeor-Mormont" target="Jon-Snow" weight="81">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_455" source="Jeor-Mormont" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_456" source="Jeor-Mormont" target="Samwell-Tarly" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_457" source="Jeor-Mormont" target="Tyrion-Lannister" weight="23">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_458" source="Jeor-Mormont" target="Yoren" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_459" source="Jeyne-Poole" target="Loras-Tyrell" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_460" source="Jeyne-Poole" target="Mordane" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_461" source="Jeyne-Poole" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_462" source="Jeyne-Poole" target="Sansa-Stark" weight="27">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_463" source="Jhiqui" target="Jorah-Mormont" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_464" source="Jhogo" target="Jorah-Mormont" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_465" source="Jhogo" target="Mirri-Maz-Duur" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_466" source="Joffrey-Baratheon" target="Jon-Snow" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_467" source="Joffrey-Baratheon" target="Loras-Tyrell" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_468" source="Joffrey-Baratheon" target="Meryn-Trant" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_469" source="Joffrey-Baratheon" target="Mordane" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_470" source="Joffrey-Baratheon" target="Mycah" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_471" source="Joffrey-Baratheon" target="Myrcella-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_472" source="Joffrey-Baratheon" target="Petyr-Baelish" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_473" source="Joffrey-Baratheon" target="Pycelle" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_474" source="Joffrey-Baratheon" target="Renly-Baratheon" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_475" source="Joffrey-Baratheon" target="Robb-Stark" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_476" source="Joffrey-Baratheon" target="Robert-Baratheon" weight="30">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_477" source="Joffrey-Baratheon" target="Rodrik-Cassel" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_478" source="Joffrey-Baratheon" target="Sandor-Clegane" weight="24">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_479" source="Joffrey-Baratheon" target="Sansa-Stark" weight="87">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_480" source="Joffrey-Baratheon" target="Stannis-Baratheon" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_481" source="Joffrey-Baratheon" target="Tommen-Baratheon" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_482" source="Joffrey-Baratheon" target="Tyrion-Lannister" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_483" source="Joffrey-Baratheon" target="Tywin-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_484" source="Joffrey-Baratheon" target="Varys" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_485" source="Jommo" target="Ogo" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_486" source="Jon-Arryn" target="Lysa-Arryn" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_487" source="Jon-Arryn" target="Petyr-Baelish" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_488" source="Jon-Arryn" target="Pycelle" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_489" source="Jon-Arryn" target="Robert-Baratheon" weight="32">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_490" source="Jon-Arryn" target="Stannis-Baratheon" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_491" source="Jon-Arryn" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_492" source="Jon-Arryn" target="Varys" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_493" source="Jon-Snow" target="Jory-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_494" source="Jon-Snow" target="Luwin" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_495" source="Jon-Snow" target="Matthar" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_496" source="Jon-Snow" target="Mordane" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_497" source="Jon-Snow" target="Othor" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_498" source="Jon-Snow" target="Pypar" weight="45">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_499" source="Jon-Snow" target="Rast" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_500" source="Jon-Snow" target="Rickon-Stark" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_501" source="Jon-Snow" target="Robb-Stark" weight="53">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_502" source="Jon-Snow" target="Robert-Baratheon" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_503" source="Jon-Snow" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_504" source="Jon-Snow" target="Samwell-Tarly" weight="81">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_505" source="Jon-Snow" target="Sansa-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_506" source="Jon-Snow" target="Theon-Greyjoy" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_507" source="Jon-Snow" target="Todder" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_508" source="Jon-Snow" target="Tyrion-Lannister" weight="56">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_509" source="Jon-Snow" target="Yoren" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_510" source="Jon-Umber-(Greatjon)" target="Maege-Mormont" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_511" source="Jon-Umber-(Greatjon)" target="Rickard-Karstark" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_512" source="Jon-Umber-(Greatjon)" target="Robb-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_513" source="Jon-Umber-(Greatjon)" target="Roose-Bolton" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_514" source="Jon-Umber-(Greatjon)" target="Theon-Greyjoy" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_515" source="Jon-Umber-(Greatjon)" target="Tywin-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_516" source="Jonos-Bracken" target="Tytos-Blackwood" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_517" source="Jorah-Mormont" target="Mirri-Maz-Duur" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_518" source="Jorah-Mormont" target="Qotho" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_519" source="Jorah-Mormont" target="Rhaegar-Targaryen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_520" source="Jorah-Mormont" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_521" source="Jorah-Mormont" target="Viserys-Targaryen" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_522" source="Jory-Cassel" target="Mordane" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_523" source="Jory-Cassel" target="Petyr-Baelish" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_524" source="Jory-Cassel" target="Robb-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_525" source="Jory-Cassel" target="Robert-Baratheon" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_526" source="Jory-Cassel" target="Rodrik-Cassel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_527" source="Jory-Cassel" target="Sansa-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_528" source="Jory-Cassel" target="Stannis-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_529" source="Jory-Cassel" target="Theon-Greyjoy" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_530" source="Jory-Cassel" target="Tomard" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_531" source="Jory-Cassel" target="Vayon-Poole" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_532" source="Jory-Cassel" target="Wyl-(guard)" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_533" source="Joseth" target="Luwin" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_534" source="Jyck" target="Morrec" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_535" source="Jyck" target="Tyrion-Lannister" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_536" source="Karyl-Vance" target="Marq-Piper" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_537" source="Kevan-Lannister" target="Tyrion-Lannister" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_538" source="Kevan-Lannister" target="Tywin-Lannister" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_539" source="Kurleket" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_540" source="Lancel-Lannister" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_541" source="Leo-Lefford" target="Tyrion-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_542" source="Loras-Tyrell" target="Mace-Tyrell" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_543" source="Loras-Tyrell" target="Petyr-Baelish" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_544" source="Loras-Tyrell" target="Renly-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_545" source="Loras-Tyrell" target="Robert-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_546" source="Loras-Tyrell" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_547" source="Loras-Tyrell" target="Sandor-Clegane" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_548" source="Loras-Tyrell" target="Sansa-Stark" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_549" source="Luwin" target="Nan" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_550" source="Luwin" target="Osha" weight="16">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_551" source="Luwin" target="Rickard-Karstark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_552" source="Luwin" target="Rickon-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_553" source="Luwin" target="Robb-Stark" weight="20">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_554" source="Luwin" target="Rodrik-Cassel" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_555" source="Luwin" target="Theon-Greyjoy" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_556" source="Luwin" target="Tommen-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_557" source="Luwin" target="Tyrion-Lannister" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_558" source="Lyanna-Stark" target="Robert-Baratheon" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_559" source="Lyanna-Stark" target="Sansa-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_560" source="Lyn-Corbray" target="Lysa-Arryn" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_561" source="Lysa-Arryn" target="Petyr-Baelish" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_562" source="Lysa-Arryn" target="Robert-Arryn" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_563" source="Lysa-Arryn" target="Robert-Baratheon" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_564" source="Lysa-Arryn" target="Stannis-Baratheon" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_565" source="Lysa-Arryn" target="Tyrion-Lannister" weight="25">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_566" source="Lysa-Arryn" target="Vardis-Egen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_567" source="Mace-Tyrell" target="Paxter-Redwyne" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_568" source="Maege-Mormont" target="Rickard-Karstark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_569" source="Maegor-I-Targaryen" target="Sansa-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_570" source="Marillion" target="Rodrik-Cassel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_571" source="Marillion" target="Tyrion-Lannister" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_572" source="Marillion" target="Willis-Wode" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_573" source="Marq-Piper" target="Tywin-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_574" source="Meryn-Trant" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_575" source="Meryn-Trant" target="Sandor-Clegane" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_576" source="Meryn-Trant" target="Sansa-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_577" source="Meryn-Trant" target="Syrio-Forel" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_578" source="Mirri-Maz-Duur" target="Qotho" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_579" source="Mord" target="Tyrion-Lannister" weight="20">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_580" source="Mordane" target="Myrcella-Baratheon" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_581" source="Mordane" target="Petyr-Baelish" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_582" source="Mordane" target="Robert-Baratheon" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_583" source="Mordane" target="Sansa-Stark" weight="43">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_584" source="Morrec" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_585" source="Mycah" target="Sandor-Clegane" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_586" source="Mycah" target="Sansa-Stark" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_587" source="Myrcella-Baratheon" target="Robert-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_588" source="Myrcella-Baratheon" target="Sansa-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_589" source="Myrcella-Baratheon" target="Tommen-Baratheon" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_590" source="Nan" target="Robb-Stark" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_591" source="Osha" target="Robb-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_592" source="Petyr-Baelish" target="Pycelle" weight="14">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_593" source="Petyr-Baelish" target="Renly-Baratheon" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_594" source="Petyr-Baelish" target="Robert-Baratheon" weight="30">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_595" source="Petyr-Baelish" target="Rodrik-Cassel" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_596" source="Petyr-Baelish" target="Sandor-Clegane" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_597" source="Petyr-Baelish" target="Sansa-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_598" source="Petyr-Baelish" target="Tomard" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_599" source="Petyr-Baelish" target="Tyrion-Lannister" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_600" source="Petyr-Baelish" target="Varys" weight="29">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_601" source="Pycelle" target="Renly-Baratheon" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_602" source="Pycelle" target="Robert-Baratheon" weight="26">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_603" source="Pycelle" target="Sansa-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_604" source="Pycelle" target="Stannis-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_605" source="Pycelle" target="Tywin-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_606" source="Pycelle" target="Varys" weight="17">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_607" source="Pypar" target="Rast" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_608" source="Pypar" target="Samwell-Tarly" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_609" source="Pypar" target="Todder" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_610" source="Qotho" target="Quaro" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_611" source="Quaro" target="Rakharo" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_612" source="Randyll-Tarly" target="Samwell-Tarly" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_613" source="Rast" target="Samwell-Tarly" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_614" source="Raymun-Darry" target="Robert-Baratheon" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_615" source="Renly-Baratheon" target="Robb-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_616" source="Renly-Baratheon" target="Robert-Baratheon" weight="42">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_617" source="Renly-Baratheon" target="Sandor-Clegane" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_618" source="Renly-Baratheon" target="Sansa-Stark" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_619" source="Renly-Baratheon" target="Stannis-Baratheon" weight="19">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_620" source="Renly-Baratheon" target="Tyrion-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_621" source="Renly-Baratheon" target="Varys" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_622" source="Rhaegar-Targaryen" target="Robert-Baratheon" weight="22">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_623" source="Rhaegar-Targaryen" target="Sansa-Stark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_624" source="Rhaegar-Targaryen" target="Tywin-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_625" source="Rhaegar-Targaryen" target="Viserys-Targaryen" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_626" source="Rickard-Karstark" target="Robb-Stark" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_627" source="Rickard-Karstark" target="Roose-Bolton" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_628" source="Rickon-Stark" target="Robb-Stark" weight="20">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_629" source="Rickon-Stark" target="Sansa-Stark" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_630" source="Rickon-Stark" target="Tyrion-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_631" source="Robb-Stark" target="Robert-Baratheon" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_632" source="Robb-Stark" target="Rodrik-Cassel" weight="15">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_633" source="Robb-Stark" target="Roose-Bolton" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_634" source="Robb-Stark" target="Samwell-Tarly" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_635" source="Robb-Stark" target="Sansa-Stark" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_636" source="Robb-Stark" target="Stiv" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_637" source="Robb-Stark" target="Theon-Greyjoy" weight="37">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_638" source="Robb-Stark" target="Torrhen-Karstark" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_639" source="Robb-Stark" target="Tyrion-Lannister" weight="11">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_640" source="Robb-Stark" target="Tywin-Lannister" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_641" source="Robb-Stark" target="Walder-Frey" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_642" source="Robb-Stark" target="Wendel-Manderly" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_643" source="Robb-Stark" target="Yoren" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_644" source="Robert-Arryn" target="Tyrion-Lannister" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_645" source="Robert-Baratheon" target="Sandor-Clegane" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_646" source="Robert-Baratheon" target="Sansa-Stark" weight="26">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_647" source="Robert-Baratheon" target="Stannis-Baratheon" weight="21">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_648" source="Robert-Baratheon" target="Tommen-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_649" source="Robert-Baratheon" target="Tyrion-Lannister" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_650" source="Robert-Baratheon" target="Tywin-Lannister" weight="13">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_651" source="Robert-Baratheon" target="Varys" weight="36">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_652" source="Robert-Baratheon" target="Vayon-Poole" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_653" source="Robert-Baratheon" target="Viserys-Targaryen" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_654" source="Rodrik-Cassel" target="Theon-Greyjoy" weight="6">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_655" source="Rodrik-Cassel" target="Tyrion-Lannister" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_656" source="Rodrik-Cassel" target="Willis-Wode" weight="7">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_657" source="Roose-Bolton" target="Tywin-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_658" source="Sandor-Clegane" target="Sansa-Stark" weight="23">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_659" source="Sandor-Clegane" target="Tyrion-Lannister" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_660" source="Sansa-Stark" target="Stannis-Baratheon" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_661" source="Sansa-Stark" target="Tomard" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_662" source="Sansa-Stark" target="Tyrion-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_663" source="Sansa-Stark" target="Varys" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_664" source="Shae" target="Tyrion-Lannister" weight="12">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_665" source="Shagga" target="Timett" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_666" source="Shagga" target="Tyrion-Lannister" weight="17">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_667" source="Shagga" target="Ulf-son-of-Umar" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_668" source="Stannis-Baratheon" target="Tywin-Lannister" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_669" source="Stannis-Baratheon" target="Varys" weight="5">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_670" source="Stevron-Frey" target="Walder-Frey" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_671" source="Theon-Greyjoy" target="Tyrion-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_672" source="Theon-Greyjoy" target="Tywin-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_673" source="Theon-Greyjoy" target="Walder-Frey" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_674" source="Timett" target="Tyrion-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_675" source="Tommen-Baratheon" target="Tyrion-Lannister" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_676" source="Tyrion-Lannister" target="Tywin-Lannister" weight="40">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_677" source="Tyrion-Lannister" target="Vardis-Egen" weight="9">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_678" source="Tyrion-Lannister" target="Varys" weight="3">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_679" source="Tyrion-Lannister" target="Willis-Wode" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_680" source="Tyrion-Lannister" target="Yoren" weight="10">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_681" source="Tywin-Lannister" target="Varys" weight="4">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_682" source="Tywin-Lannister" target="Walder-Frey" weight="8">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+      <edge id="geid_126_683" source="Waymar-Royce" target="Will-(prologue)" weight="18">
+        <attvalues>
+          <attvalue for="book" value="1"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
