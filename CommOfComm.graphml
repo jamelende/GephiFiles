@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="score" attr.type="double" for="edge" id="d0"/>
+    <graph edgedefault="undirected">
+        <node id="affinity">
+            <data key="label">affinity</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">421.1604</data>
+            <data key="y">-125.614296</data>
+        </node>
+        <node id="agglomerative">
+            <data key="label">agglomerative</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">250.35437</data>
+            <data key="y">139.5705</data>
+        </node>
+        <node id="birch">
+            <data key="label">birch</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">225.70569</data>
+            <data key="y">-326.5047</data>
+        </node>
+        <node id="bagrowlocal">
+            <data key="label">bagrowlocal</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">33.677555</data>
+            <data key="y">319.02893</data>
+        </node>
+        <node id="clausetlocal">
+            <data key="label">clausetlocal</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-505.85263</data>
+            <data key="y">-433.73285</data>
+        </node>
+        <node id="agm">
+            <data key="label">agm</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-483.58353</data>
+            <data key="y">-207.55865</data>
+        </node>
+        <node id="code-dense">
+            <data key="label">code-dense</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">290.08807</data>
+            <data key="y">520.24</data>
+        </node>
+        <node id="collapsed-sbm">
+            <data key="label">collapsed-sbm</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">389.60498</data>
+            <data key="y">173.31635</data>
+        </node>
+        <node id="bigclam">
+            <data key="label">bigclam</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">223.43994</data>
+            <data key="y">423.6344</data>
+        </node>
+        <node id="copra">
+            <data key="label">copra</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-423.37827</data>
+            <data key="y">-126.03916</data>
+        </node>
+        <node id="bridgebound">
+            <data key="label">bridgebound</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-339.30853</data>
+            <data key="y">134.03021</data>
+        </node>
+        <node id="crossass">
+            <data key="label">crossass</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">146.15924</data>
+            <data key="y">-144.89127</data>
+        </node>
+        <node id="dbscan">
+            <data key="label">dbscan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-327.4436</data>
+            <data key="y">-350.09885</data>
+        </node>
+        <node id="edgeclust">
+            <data key="label">edgeclust</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-360.65222</data>
+            <data key="y">98.64135</data>
+        </node>
+        <node id="demon">
+            <data key="label">demon</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">22.01325</data>
+            <data key="y">-75.91996</data>
+        </node>
+        <node id="cliquemod">
+            <data key="label">cliquemod</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">141.87524</data>
+            <data key="y">494.83722</data>
+        </node>
+        <node id="extr">
+            <data key="label">extr</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-128.27823</data>
+            <data key="y">-184.23303</data>
+        </node>
+        <node id="fastgreedy">
+            <data key="label">fastgreedy</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-426.45407</data>
+            <data key="y">203.75104</data>
+        </node>
+        <node id="cme-bu">
+            <data key="label">cme-bu</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">47.028202</data>
+            <data key="y">-313.51764</data>
+        </node>
+        <node id="conclude">
+            <data key="label">conclude</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">90.57215</data>
+            <data key="y">449.7376</data>
+        </node>
+        <node id="fluid">
+            <data key="label">fluid</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-370.7527</data>
+            <data key="y">185.4054</data>
+        </node>
+        <node id="conga">
+            <data key="label">conga</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">199.99438</data>
+            <data key="y">138.79889</data>
+        </node>
+        <node id="edgebetween">
+            <data key="label">edgebetween</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">373.63806</data>
+            <data key="y">-159.1724</data>
+        </node>
+        <node id="fuzzyclust">
+            <data key="label">fuzzyclust</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">170.9773</data>
+            <data key="y">-349.6521</data>
+        </node>
+        <node id="ganet">
+            <data key="label">ganet</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-52.536922</data>
+            <data key="y">176.99036</data>
+        </node>
+        <node id="cme-td">
+            <data key="label">cme-td</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-405.66907</data>
+            <data key="y">-351.85373</data>
+        </node>
+        <node id="graclus">
+            <data key="label">graclus</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">265.75165</data>
+            <data key="y">209.36432</data>
+        </node>
+        <node id="graclus2stage">
+            <data key="label">graclus2stage</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-510.54297</data>
+            <data key="y">-220.41373</data>
+        </node>
+        <node id="hlc">
+            <data key="label">hlc</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">265.86017</data>
+            <data key="y">336.46735</data>
+        </node>
+        <node id="ganet+">
+            <data key="label">ganet+</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">187.02216</data>
+            <data key="y">-311.84686</data>
+        </node>
+        <node id="hrg">
+            <data key="label">hrg</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">306.6527</data>
+            <data key="y">-157.39258</data>
+        </node>
+        <node id="ilcd">
+            <data key="label">ilcd</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">326.01263</data>
+            <data key="y">-149.1838</data>
+        </node>
+        <node id="infomap-overlap">
+            <data key="label">infomap-overlap</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">4.098455</data>
+            <data key="y">453.47522</data>
+        </node>
+        <node id="infomap">
+            <data key="label">infomap</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-304.57565</data>
+            <data key="y">370.2633</data>
+        </node>
+        <node id="kclique">
+            <data key="label">kclique</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-277.68802</data>
+            <data key="y">-354.69952</data>
+        </node>
+        <node id="infocentr">
+            <data key="label">infocentr</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">323.69604</data>
+            <data key="y">1.3042552</data>
+        </node>
+        <node id="bnmtf">
+            <data key="label">bnmtf</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">127.53651</data>
+            <data key="y">-301.67444</data>
+        </node>
+        <node id="kerlin">
+            <data key="label">kerlin</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">173.09326</data>
+            <data key="y">371.43652</data>
+        </node>
+        <node id="kmeans">
+            <data key="label">kmeans</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">182.29889</data>
+            <data key="y">-193.36179</data>
+        </node>
+        <node id="labelperc">
+            <data key="label">labelperc</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">31.602606</data>
+            <data key="y">-432.52255</data>
+        </node>
+        <node id="ganxis">
+            <data key="label">ganxis</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-292.06042</data>
+            <data key="y">-91.05506</data>
+        </node>
+        <node id="gce">
+            <data key="label">gce</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-288.50122</data>
+            <data key="y">3.3328807</data>
+        </node>
+        <node id="leadeig">
+            <data key="label">leadeig</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">175.94983</data>
+            <data key="y">288.65546</data>
+        </node>
+        <node id="louvain">
+            <data key="label">louvain</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-538.40375</data>
+            <data key="y">-241.61374</data>
+        </node>
+        <node id="mcl">
+            <data key="label">mcl</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-297.9778</data>
+            <data key="y">406.6872</data>
+        </node>
+        <node id="meanshift">
+            <data key="label">meanshift</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-420.6996</data>
+            <data key="y">381.65546</data>
+        </node>
+        <node id="metis">
+            <data key="label">metis</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">311.44928</data>
+            <data key="y">-123.31101</data>
+        </node>
+        <node id="mixnet">
+            <data key="label">mixnet</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-431.07538</data>
+            <data key="y">493.77905</data>
+        </node>
+        <node id="mlrmcl">
+            <data key="label">mlrmcl</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">420.48126</data>
+            <data key="y">-30.078833</data>
+        </node>
+        <node id="mmsb">
+            <data key="label">mmsb</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-165.65988</data>
+            <data key="y">387.05847</data>
+        </node>
+        <node id="linecomms">
+            <data key="label">linecomms</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">135.479</data>
+            <data key="y">-454.18167</data>
+        </node>
+        <node id="moganet">
+            <data key="label">moganet</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-183.12125</data>
+            <data key="y">223.195</data>
+        </node>
+        <node id="lwplocal">
+            <data key="label">lwplocal</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">410.17645</data>
+            <data key="y">-155.69879</data>
+        </node>
+        <node id="moses">
+            <data key="label">moses</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-306.49142</data>
+            <data key="y">359.02655</data>
+        </node>
+        <node id="netcarto">
+            <data key="label">netcarto</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">321.09326</data>
+            <data key="y">147.19171</data>
+        </node>
+        <node id="msg">
+            <data key="label">msg</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">235.65503</data>
+            <data key="y">-207.51874</data>
+        </node>
+        <node id="ocg">
+            <data key="label">ocg</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-277.8865</data>
+            <data key="y">-81.37473</data>
+        </node>
+        <node id="olc">
+            <data key="label">olc</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">195.64148</data>
+            <data key="y">-285.86896</data>
+        </node>
+        <node id="oslom">
+            <data key="label">oslom</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">321.47473</data>
+            <data key="y">-331.8565</data>
+        </node>
+        <node id="pmm">
+            <data key="label">pmm</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-364.42535</data>
+            <data key="y">-325.8598</data>
+        </node>
+        <node id="savi">
+            <data key="label">savi</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-212.11292</data>
+            <data key="y">445.18835</data>
+        </node>
+        <node id="slpa">
+            <data key="label">slpa</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-57.39825</data>
+            <data key="y">-69.929726</data>
+        </node>
+        <node id="rmcl">
+            <data key="label">rmcl</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-162.77155</data>
+            <data key="y">-429.99023</data>
+        </node>
+        <node id="spectral">
+            <data key="label">spectral</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-115.18224</data>
+            <data key="y">127.91436</data>
+        </node>
+        <node id="spinglass">
+            <data key="label">spinglass</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">377.23975</data>
+            <data key="y">-66.46378</data>
+        </node>
+        <node id="svinet">
+            <data key="label">svinet</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-46.2962</data>
+            <data key="y">-413.0999</data>
+        </node>
+        <node id="peacock">
+            <data key="label">peacock</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-305.13083</data>
+            <data key="y">-42.45264</data>
+        </node>
+        <node id="tabu">
+            <data key="label">tabu</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">411.8271</data>
+            <data key="y">108.01354</data>
+        </node>
+        <node id="tiles">
+            <data key="label">tiles</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">359.3921</data>
+            <data key="y">96.52691</data>
+        </node>
+        <node id="vbmod">
+            <data key="label">vbmod</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-81.36321</data>
+            <data key="y">406.85986</data>
+        </node>
+        <node id="vm">
+            <data key="label">vm</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-15.840815</data>
+            <data key="y">-416.1365</data>
+        </node>
+        <node id="walktrap">
+            <data key="label">walktrap</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">342.53955</data>
+            <data key="y">-16.608099</data>
+        </node>
+        <node id="ward">
+            <data key="label">ward</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">240.80194</data>
+            <data key="y">-22.395117</data>
+        </node>
+        <edge id="0" source="affinity" target="agglomerative">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8404268041811278</data>
+        </edge>
+        <edge id="1" source="affinity" target="birch">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6858044988999427</data>
+        </edge>
+        <edge id="2" source="affinity" target="dbscan">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7643518869035271</data>
+        </edge>
+        <edge id="3" source="affinity" target="hrg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5247859594401632</data>
+        </edge>
+        <edge id="4" source="affinity" target="kmeans">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6671374946147705</data>
+        </edge>
+        <edge id="5" source="affinity" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6562544357380687</data>
+        </edge>
+        <edge id="6" source="affinity" target="spectral">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6417916331576287</data>
+        </edge>
+        <edge id="7" source="affinity" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6684079211405538</data>
+        </edge>
+        <edge id="8" source="agglomerative" target="birch">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7003776881902972</data>
+        </edge>
+        <edge id="9" source="agglomerative" target="dbscan">
+            <data key="weight">1.0</data>
+            <data key="d0">0.82631990905835</data>
+        </edge>
+        <edge id="10" source="agglomerative" target="kmeans">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5908666366035947</data>
+        </edge>
+        <edge id="11" source="agglomerative" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7645244892237885</data>
+        </edge>
+        <edge id="12" source="agglomerative" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6796479461679082</data>
+        </edge>
+        <edge id="13" source="birch" target="collapsed-sbm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4508891905640919</data>
+        </edge>
+        <edge id="14" source="birch" target="kmeans">
+            <data key="weight">1.0</data>
+            <data key="d0">0.78945008702548</data>
+        </edge>
+        <edge id="15" source="birch" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4188298580142926</data>
+        </edge>
+        <edge id="16" source="birch" target="mixnet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5032334224713673</data>
+        </edge>
+        <edge id="17" source="birch" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8605461579504352</data>
+        </edge>
+        <edge id="18" source="bagrowlocal" target="clausetlocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9593882053551308</data>
+        </edge>
+        <edge id="19" source="bagrowlocal" target="mlrmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5237333081677912</data>
+        </edge>
+        <edge id="20" source="bagrowlocal" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8590847854338821</data>
+        </edge>
+        <edge id="21" source="bagrowlocal" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6031302731315061</data>
+        </edge>
+        <edge id="22" source="bagrowlocal" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.540278151122699</data>
+        </edge>
+        <edge id="23" source="clausetlocal" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6061093529807039</data>
+        </edge>
+        <edge id="24" source="clausetlocal" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8169493219535456</data>
+        </edge>
+        <edge id="25" source="clausetlocal" target="linecomms">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9593619851078082</data>
+        </edge>
+        <edge id="26" source="agm" target="code-dense">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9017871267366286</data>
+        </edge>
+        <edge id="27" source="agm" target="mmsb">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7712027718840637</data>
+        </edge>
+        <edge id="28" source="agm" target="moses">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5010233806295774</data>
+        </edge>
+        <edge id="29" source="agm" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8004529349906996</data>
+        </edge>
+        <edge id="30" source="agm" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6573781735829463</data>
+        </edge>
+        <edge id="31" source="agm" target="ganet+">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7013383988274605</data>
+        </edge>
+        <edge id="32" source="agm" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6609340210179352</data>
+        </edge>
+        <edge id="33" source="code-dense" target="crossass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8665831089067257</data>
+        </edge>
+        <edge id="34" source="code-dense" target="mmsb">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7817512490139363</data>
+        </edge>
+        <edge id="35" source="code-dense" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.655758939192435</data>
+        </edge>
+        <edge id="36" source="collapsed-sbm" target="crossass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8900184526782031</data>
+        </edge>
+        <edge id="37" source="collapsed-sbm" target="dbscan">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6347464897558418</data>
+        </edge>
+        <edge id="38" source="collapsed-sbm" target="kmeans">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5839722772807164</data>
+        </edge>
+        <edge id="39" source="collapsed-sbm" target="mixnet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8995597697027666</data>
+        </edge>
+        <edge id="40" source="collapsed-sbm" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4406410493372693</data>
+        </edge>
+        <edge id="41" source="bigclam" target="copra">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5991653733355568</data>
+        </edge>
+        <edge id="42" source="bigclam" target="hlc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5406069393736281</data>
+        </edge>
+        <edge id="43" source="bigclam" target="ilcd">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7283249091449467</data>
+        </edge>
+        <edge id="44" source="bigclam" target="kclique">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7139703658105474</data>
+        </edge>
+        <edge id="45" source="bigclam" target="moses">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7186696693139731</data>
+        </edge>
+        <edge id="46" source="bigclam" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.3940511618839561</data>
+        </edge>
+        <edge id="47" source="bigclam" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6785873276649541</data>
+        </edge>
+        <edge id="48" source="bigclam" target="bridgebound">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6905462193947404</data>
+        </edge>
+        <edge id="49" source="bigclam" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4852327253153086</data>
+        </edge>
+        <edge id="50" source="copra" target="bridgebound">
+            <data key="weight">1.0</data>
+            <data key="d0">0.576289655529649</data>
+        </edge>
+        <edge id="51" source="copra" target="kclique">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5362587613296669</data>
+        </edge>
+        <edge id="52" source="copra" target="labelperc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6555254522007411</data>
+        </edge>
+        <edge id="53" source="copra" target="ganxis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.552055889932329</data>
+        </edge>
+        <edge id="54" source="copra" target="gce">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5953544159654958</data>
+        </edge>
+        <edge id="55" source="copra" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5532576600032938</data>
+        </edge>
+        <edge id="56" source="copra" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5796093678032772</data>
+        </edge>
+        <edge id="57" source="bridgebound" target="edgeclust">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6871423446153226</data>
+        </edge>
+        <edge id="58" source="bridgebound" target="ilcd">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4641334719823364</data>
+        </edge>
+        <edge id="59" source="bridgebound" target="kclique">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7701596282736386</data>
+        </edge>
+        <edge id="60" source="bridgebound" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4871397626747019</data>
+        </edge>
+        <edge id="61" source="bridgebound" target="moses">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7175559352643575</data>
+        </edge>
+        <edge id="62" source="bridgebound" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6101035767047024</data>
+        </edge>
+        <edge id="63" source="bridgebound" target="demon">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7333868679179467</data>
+        </edge>
+        <edge id="64" source="crossass" target="dbscan">
+            <data key="weight">1.0</data>
+            <data key="d0">0.557655664669099</data>
+        </edge>
+        <edge id="65" source="crossass" target="kerlin">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7708689584612185</data>
+        </edge>
+        <edge id="66" source="crossass" target="kmeans">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4962456859255535</data>
+        </edge>
+        <edge id="67" source="crossass" target="mixnet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8923659207447302</data>
+        </edge>
+        <edge id="68" source="dbscan" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8303400321550221</data>
+        </edge>
+        <edge id="69" source="dbscan" target="mixnet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5820574066389145</data>
+        </edge>
+        <edge id="70" source="edgeclust" target="demon">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7593111867787388</data>
+        </edge>
+        <edge id="71" source="edgeclust" target="mlrmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6100289412213287</data>
+        </edge>
+        <edge id="72" source="edgeclust" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5571189841885998</data>
+        </edge>
+        <edge id="73" source="demon" target="mmsb">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8779837173046942</data>
+        </edge>
+        <edge id="74" source="demon" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8681520292949642</data>
+        </edge>
+        <edge id="75" source="demon" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7424494703088554</data>
+        </edge>
+        <edge id="76" source="cliquemod" target="extr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5260565266659795</data>
+        </edge>
+        <edge id="77" source="cliquemod" target="fastgreedy">
+            <data key="weight">1.0</data>
+            <data key="d0">0.524378440466777</data>
+        </edge>
+        <edge id="78" source="cliquemod" target="louvain">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5548246984844748</data>
+        </edge>
+        <edge id="79" source="cliquemod" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5828746328967943</data>
+        </edge>
+        <edge id="80" source="cliquemod" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5384568982482798</data>
+        </edge>
+        <edge id="81" source="cliquemod" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5371427900430044</data>
+        </edge>
+        <edge id="82" source="extr" target="fastgreedy">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5181215731541962</data>
+        </edge>
+        <edge id="83" source="extr" target="leadeig">
+            <data key="weight">1.0</data>
+            <data key="d0">0.636929414752294</data>
+        </edge>
+        <edge id="84" source="extr" target="louvain">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6430873634846409</data>
+        </edge>
+        <edge id="85" source="extr" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6707206939597706</data>
+        </edge>
+        <edge id="86" source="extr" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6881426939509355</data>
+        </edge>
+        <edge id="87" source="extr" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6136745425377633</data>
+        </edge>
+        <edge id="88" source="extr" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5160090462064874</data>
+        </edge>
+        <edge id="89" source="fastgreedy" target="cme-bu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4713918400377723</data>
+        </edge>
+        <edge id="90" source="fastgreedy" target="louvain">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6004908401303984</data>
+        </edge>
+        <edge id="91" source="fastgreedy" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.568895274944456</data>
+        </edge>
+        <edge id="92" source="fastgreedy" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5629128526251641</data>
+        </edge>
+        <edge id="93" source="fastgreedy" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4876830182834781</data>
+        </edge>
+        <edge id="94" source="fastgreedy" target="vm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8312724932642717</data>
+        </edge>
+        <edge id="95" source="fastgreedy" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8497549069739786</data>
+        </edge>
+        <edge id="96" source="cme-bu" target="ganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5357611726313771</data>
+        </edge>
+        <edge id="97" source="cme-bu" target="infomap-overlap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6907769730670524</data>
+        </edge>
+        <edge id="98" source="cme-bu" target="mcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.524083119856886</data>
+        </edge>
+        <edge id="99" source="cme-bu" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4535701301187692</data>
+        </edge>
+        <edge id="100" source="cme-bu" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4737462726472682</data>
+        </edge>
+        <edge id="101" source="cme-bu" target="infomap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7702949173405997</data>
+        </edge>
+        <edge id="102" source="cme-bu" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4554743976878693</data>
+        </edge>
+        <edge id="103" source="conclude" target="fluid">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6362649426284875</data>
+        </edge>
+        <edge id="104" source="conclude" target="leadeig">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6103191382000637</data>
+        </edge>
+        <edge id="105" source="conclude" target="pmm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.704421733960437</data>
+        </edge>
+        <edge id="106" source="fluid" target="conga">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6356729056936655</data>
+        </edge>
+        <edge id="107" source="fluid" target="leadeig">
+            <data key="weight">1.0</data>
+            <data key="d0">0.660280944669738</data>
+        </edge>
+        <edge id="108" source="fluid" target="metis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6606014255683761</data>
+        </edge>
+        <edge id="109" source="edgebetween" target="fuzzyclust">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5513540969065117</data>
+        </edge>
+        <edge id="110" source="edgebetween" target="mlrmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5560143939348428</data>
+        </edge>
+        <edge id="111" source="edgebetween" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.519115603685113</data>
+        </edge>
+        <edge id="112" source="edgebetween" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6292530118795094</data>
+        </edge>
+        <edge id="113" source="edgebetween" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6865125635833691</data>
+        </edge>
+        <edge id="114" source="edgebetween" target="infomap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.461184488363419</data>
+        </edge>
+        <edge id="115" source="fuzzyclust" target="metis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.551509769806529</data>
+        </edge>
+        <edge id="116" source="fuzzyclust" target="mlrmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8450601537075539</data>
+        </edge>
+        <edge id="117" source="fuzzyclust" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.679557630642288</data>
+        </edge>
+        <edge id="118" source="fuzzyclust" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5821925833124971</data>
+        </edge>
+        <edge id="119" source="ganet" target="cme-td">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7367784644697951</data>
+        </edge>
+        <edge id="120" source="ganet" target="hrg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5763994657543876</data>
+        </edge>
+        <edge id="121" source="ganet" target="infomap-overlap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6269430414527177</data>
+        </edge>
+        <edge id="122" source="ganet" target="labelperc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5392497327163046</data>
+        </edge>
+        <edge id="123" source="ganet" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8463847590783613</data>
+        </edge>
+        <edge id="124" source="ganet" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7293906577048583</data>
+        </edge>
+        <edge id="125" source="ganet" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5374560080442433</data>
+        </edge>
+        <edge id="126" source="ganet" target="ganxis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6461979927175943</data>
+        </edge>
+        <edge id="127" source="ganet" target="infomap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5240927562901866</data>
+        </edge>
+        <edge id="128" source="ganet" target="rmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5528909657854121</data>
+        </edge>
+        <edge id="129" source="cme-td" target="infomap-overlap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6164451155927287</data>
+        </edge>
+        <edge id="130" source="cme-td" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7502519757366172</data>
+        </edge>
+        <edge id="131" source="cme-td" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5794124019489886</data>
+        </edge>
+        <edge id="132" source="cme-td" target="spectral">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7183336296808582</data>
+        </edge>
+        <edge id="133" source="graclus" target="graclus2stage">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8792366904589347</data>
+        </edge>
+        <edge id="134" source="graclus" target="metis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6936371545452863</data>
+        </edge>
+        <edge id="135" source="graclus" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4491751147295109</data>
+        </edge>
+        <edge id="136" source="graclus" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.572530503482773</data>
+        </edge>
+        <edge id="137" source="graclus2stage" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4451326404337206</data>
+        </edge>
+        <edge id="138" source="graclus2stage" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5145116466819506</data>
+        </edge>
+        <edge id="139" source="hlc" target="ganet+">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6856676531239585</data>
+        </edge>
+        <edge id="140" source="hlc" target="ilcd">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6442941168777895</data>
+        </edge>
+        <edge id="141" source="hlc" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7888862544836138</data>
+        </edge>
+        <edge id="142" source="hlc" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7180973505751105</data>
+        </edge>
+        <edge id="143" source="hlc" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9021666699071694</data>
+        </edge>
+        <edge id="144" source="ganet+" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9014551738317222</data>
+        </edge>
+        <edge id="145" source="ganet+" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8389715262458631</data>
+        </edge>
+        <edge id="146" source="ganet+" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7365709167843233</data>
+        </edge>
+        <edge id="147" source="ganet+" target="linecomms">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9430314146285742</data>
+        </edge>
+        <edge id="148" source="hrg" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.579032240082733</data>
+        </edge>
+        <edge id="149" source="hrg" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5514532361683645</data>
+        </edge>
+        <edge id="150" source="hrg" target="spectral">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9097138954772932</data>
+        </edge>
+        <edge id="151" source="ilcd" target="kclique">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6608461796013966</data>
+        </edge>
+        <edge id="152" source="ilcd" target="moses">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7201106683661848</data>
+        </edge>
+        <edge id="153" source="ilcd" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4839637305392182</data>
+        </edge>
+        <edge id="154" source="ilcd" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6400898960398965</data>
+        </edge>
+        <edge id="155" source="ilcd" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7945840740737624</data>
+        </edge>
+        <edge id="156" source="ilcd" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6402745649742313</data>
+        </edge>
+        <edge id="157" source="infomap-overlap" target="infomap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7324885456005652</data>
+        </edge>
+        <edge id="158" source="infomap-overlap" target="mlrmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7991258786998606</data>
+        </edge>
+        <edge id="159" source="infomap-overlap" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5814825311513195</data>
+        </edge>
+        <edge id="160" source="infomap-overlap" target="linecomms">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8256267236120468</data>
+        </edge>
+        <edge id="161" source="infomap" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4382428169873977</data>
+        </edge>
+        <edge id="162" source="infomap" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4578204917750774</data>
+        </edge>
+        <edge id="163" source="infomap" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4883682191730906</data>
+        </edge>
+        <edge id="164" source="infomap" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5239202926650667</data>
+        </edge>
+        <edge id="165" source="kclique" target="infocentr">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6799719904051459</data>
+        </edge>
+        <edge id="166" source="kclique" target="meanshift">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4712496106475596</data>
+        </edge>
+        <edge id="167" source="kclique" target="moses">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7288560762645343</data>
+        </edge>
+        <edge id="168" source="kclique" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5419165505285072</data>
+        </edge>
+        <edge id="169" source="kclique" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5404819027551604</data>
+        </edge>
+        <edge id="170" source="bnmtf" target="kerlin">
+            <data key="weight">1.0</data>
+            <data key="d0">0.887184691167447</data>
+        </edge>
+        <edge id="171" source="bnmtf" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7272244299342607</data>
+        </edge>
+        <edge id="172" source="bnmtf" target="pmm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7068961220951279</data>
+        </edge>
+        <edge id="173" source="kerlin" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7814071690747029</data>
+        </edge>
+        <edge id="174" source="kerlin" target="oslom">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6572108655617895</data>
+        </edge>
+        <edge id="175" source="kerlin" target="pmm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7546582336519877</data>
+        </edge>
+        <edge id="176" source="kerlin" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6091507788096473</data>
+        </edge>
+        <edge id="177" source="kmeans" target="mixnet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6095213701673001</data>
+        </edge>
+        <edge id="178" source="kmeans" target="pmm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5656345836915324</data>
+        </edge>
+        <edge id="179" source="kmeans" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8010223064453689</data>
+        </edge>
+        <edge id="180" source="labelperc" target="ganxis">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7592047504630013</data>
+        </edge>
+        <edge id="181" source="labelperc" target="gce">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7873776219131498</data>
+        </edge>
+        <edge id="182" source="labelperc" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5769408947325071</data>
+        </edge>
+        <edge id="183" source="labelperc" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.587177573099421</data>
+        </edge>
+        <edge id="184" source="labelperc" target="oslom">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5517139689249947</data>
+        </edge>
+        <edge id="185" source="labelperc" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5023145944257933</data>
+        </edge>
+        <edge id="186" source="labelperc" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6800643983897281</data>
+        </edge>
+        <edge id="187" source="labelperc" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7793470534754938</data>
+        </edge>
+        <edge id="188" source="labelperc" target="rmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5438641179857445</data>
+        </edge>
+        <edge id="189" source="ganxis" target="moganet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7028116612447368</data>
+        </edge>
+        <edge id="190" source="ganxis" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6742000881761945</data>
+        </edge>
+        <edge id="191" source="ganxis" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4948455954797753</data>
+        </edge>
+        <edge id="192" source="ganxis" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6954807612304595</data>
+        </edge>
+        <edge id="193" source="ganxis" target="gce">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7149420727260487</data>
+        </edge>
+        <edge id="194" source="ganxis" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7181924779450514</data>
+        </edge>
+        <edge id="195" source="ganxis" target="rmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5214572582300024</data>
+        </edge>
+        <edge id="196" source="gce" target="oslom">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5845696516690777</data>
+        </edge>
+        <edge id="197" source="gce" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.9163042524658788</data>
+        </edge>
+        <edge id="198" source="leadeig" target="louvain">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4908230705734404</data>
+        </edge>
+        <edge id="199" source="leadeig" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5583035878381639</data>
+        </edge>
+        <edge id="200" source="leadeig" target="pmm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6529858738599781</data>
+        </edge>
+        <edge id="201" source="leadeig" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4666495435094279</data>
+        </edge>
+        <edge id="202" source="leadeig" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4543467241821666</data>
+        </edge>
+        <edge id="203" source="louvain" target="netcarto">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6429711158021117</data>
+        </edge>
+        <edge id="204" source="louvain" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6637086013963398</data>
+        </edge>
+        <edge id="205" source="louvain" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6524530922492713</data>
+        </edge>
+        <edge id="206" source="louvain" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6014362893355865</data>
+        </edge>
+        <edge id="207" source="mcl" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7167659809378192</data>
+        </edge>
+        <edge id="208" source="mcl" target="rmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8013827731135272</data>
+        </edge>
+        <edge id="209" source="metis" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4983444773844227</data>
+        </edge>
+        <edge id="210" source="mixnet" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6683572355313475</data>
+        </edge>
+        <edge id="211" source="mixnet" target="ward">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5113451019706962</data>
+        </edge>
+        <edge id="212" source="mlrmcl" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5866659062944323</data>
+        </edge>
+        <edge id="213" source="mmsb" target="linecomms">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8590149118843199</data>
+        </edge>
+        <edge id="214" source="mmsb" target="ocg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6933649881294515</data>
+        </edge>
+        <edge id="215" source="linecomms" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7291917790910571</data>
+        </edge>
+        <edge id="216" source="linecomms" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7442497607988572</data>
+        </edge>
+        <edge id="217" source="moganet" target="lwplocal">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5788208429219328</data>
+        </edge>
+        <edge id="218" source="moganet" target="slpa">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6999920225703864</data>
+        </edge>
+        <edge id="219" source="moganet" target="vbmod">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4898952298137455</data>
+        </edge>
+        <edge id="220" source="moses" target="olc">
+            <data key="weight">1.0</data>
+            <data key="d0">0.3919153664933102</data>
+        </edge>
+        <edge id="221" source="moses" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5056364060490226</data>
+        </edge>
+        <edge id="222" source="moses" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5790886325017375</data>
+        </edge>
+        <edge id="223" source="netcarto" target="msg">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4900664642896361</data>
+        </edge>
+        <edge id="224" source="netcarto" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6430312336797549</data>
+        </edge>
+        <edge id="225" source="netcarto" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6136981325836882</data>
+        </edge>
+        <edge id="226" source="msg" target="spinglass">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5324993000064823</data>
+        </edge>
+        <edge id="227" source="msg" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4640568439355121</data>
+        </edge>
+        <edge id="228" source="msg" target="vm">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8772407302864199</data>
+        </edge>
+        <edge id="229" source="olc" target="svinet">
+            <data key="weight">1.0</data>
+            <data key="d0">0.7579454511999779</data>
+        </edge>
+        <edge id="230" source="olc" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8637967499643551</data>
+        </edge>
+        <edge id="231" source="oslom" target="savi">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5895161578454209</data>
+        </edge>
+        <edge id="232" source="savi" target="walktrap">
+            <data key="weight">1.0</data>
+            <data key="d0">0.542117979070517</data>
+        </edge>
+        <edge id="233" source="slpa" target="rmcl">
+            <data key="weight">1.0</data>
+            <data key="d0">0.8065507910714225</data>
+        </edge>
+        <edge id="234" source="spinglass" target="tabu">
+            <data key="weight">1.0</data>
+            <data key="d0">0.6966553543534834</data>
+        </edge>
+        <edge id="235" source="svinet" target="peacock">
+            <data key="weight">1.0</data>
+            <data key="d0">0.5293345111108281</data>
+        </edge>
+        <edge id="236" source="peacock" target="tiles">
+            <data key="weight">1.0</data>
+            <data key="d0">0.4718260362262473</data>
+        </edge>
+    </graph>
+</graphml>
